@@ -8,8 +8,6 @@ void setup()
   pinMode(10,OUTPUT);
   pinMode(9,OUTPUT);
   pinMode(8,OUTPUT);
-  pinMode(7,OUTPUT);
-  pinMode(6,OUTPUT);
 }
 void display(short n)
 {
